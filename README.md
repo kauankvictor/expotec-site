@@ -1,1 +1,1 @@
-# expotec-site
+# Projeto Autoria Web, site Expotec
